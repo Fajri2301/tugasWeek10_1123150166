@@ -10,6 +10,10 @@ class MyLogin extends StatefulWidget {
 class _MyLoginState extends State<MyLogin> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      body: Center(
+        child: Text('This is the login page.'),
+      ),
+    );
   }
 }
