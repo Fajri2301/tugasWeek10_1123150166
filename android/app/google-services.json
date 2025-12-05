@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "23857096932",
+    "project_id": "belajar-f313e",
+    "storage_bucket": "belajar-f313e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23857096932:android:ebbc47a61e77fb175524f1",
+        "android_client_info": {
+          "package_name": "com.belajar.flutter10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23857096932-kvseaktk82mr9hccs2b19c41plhnrpkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqse39WXKIkCQiL1eqJ5yaVfiXMbwTCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23857096932-kvseaktk82mr9hccs2b19c41plhnrpkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23857096932:android:4f24a139b60db2625524f1",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23857096932-kvseaktk82mr9hccs2b19c41plhnrpkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqse39WXKIkCQiL1eqJ5yaVfiXMbwTCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23857096932-kvseaktk82mr9hccs2b19c41plhnrpkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
